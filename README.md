@@ -21,7 +21,7 @@ Installation
 1.	Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/facial-recognition-project.git
+git clone https://github.com/Xage1/facial-recognition-project.git
 cd facial-recognition-project
 2.	Install the required Python packages:
 bash
